@@ -1,0 +1,12 @@
+body {
+    background-color: whitesmoke
+}
+
+#title-landing {
+    font-size: 40px;
+    margin-top: 10px
+}
+
+.card {
+    width: 240px;
+}
