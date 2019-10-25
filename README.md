@@ -1,5 +1,19 @@
 # Pokedex
 A Pokemon data centre.
 
-Pull Request
-* Pratik
+Changes from Karan
+
+Pull request
+
+Karan
+
+Karan
+
+Karan
+
+Pratik
+
+
+
+
+
