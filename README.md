@@ -7,10 +7,6 @@ Pull request
 
 Karan
 
-Karan
-
-Karan
-
 Pratik
 
 
